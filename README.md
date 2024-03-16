@@ -68,7 +68,7 @@ https://github.com/fisabiliyusri/XRAY-FOR-ANDROID
    - Lalu pilih Edge Certificates disini kamu harus matikan Always Use HTTPS (Harus Mati/OFF)❌
   # ![settinggambar4](https://raw.githubusercontent.com/fisabiliyusri/XRAY-MANTAP/main/img/settingambar4.jpg)
    - Buka tab Network di cloudflare kamu aktifkan WebSocket nya ✅
-   #![settinggambar5](https://raw.githubusercontent.com/fisabiliyusri/XRAY-MANTAP/main/img/settingambar5.jpg)
+   # ![settinggambar5](https://raw.githubusercontent.com/fisabiliyusri/XRAY-MANTAP/main/img/settingambar5.jpg)
   # ![settinggambar6](https://raw.githubusercontent.com/fisabiliyusri/XRAY-MANTAP/main/img/settingambar6.jpg)
 3. Setting Di Cloudflare Selesai
 # Cara Install Script Nya
