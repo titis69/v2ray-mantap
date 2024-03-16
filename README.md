@@ -62,14 +62,14 @@ https://github.com/fisabiliyusri/XRAY-FOR-ANDROID
 2. Pointing Dulu Domain Kamu, Kalo sudah pernah di pointing
    - Pergi ke dash.cloudflare.com,lalu pilih domain punya kamu, di tab TLS/SSL lalu pilih Overview, di tab TLS/SSL Harus pilih yang FULL
    - FULL (Encrypts end-to-end, using a self signed certificate on the server)✅
-   ![settinggambar1](https://raw.githubusercontent.com/fisabiliyusri/XRAY-MANTAP/main/img/settingambar1.jpg)
-   ![settinggambar2](https://raw.githubusercontent.com/fisabiliyusri/XRAY-MANTAP/main/img/settingambar2.jpg)
-   ![settinggambar3](https://raw.githubusercontent.com/fisabiliyusri/XRAY-MANTAP/main/img/settingambar3.jpg)
+  # ![settinggambar1](https://raw.githubusercontent.com/fisabiliyusri/XRAY-MANTAP/main/img/settingambar1.jpg)
+  # ![settinggambar2](https://raw.githubusercontent.com/fisabiliyusri/XRAY-MANTAP/main/img/settingambar2.jpg)
+  # ![settinggambar3](https://raw.githubusercontent.com/fisabiliyusri/XRAY-MANTAP/main/img/settingambar3.jpg)
    - Lalu pilih Edge Certificates disini kamu harus matikan Always Use HTTPS (Harus Mati/OFF)❌
-   ![settinggambar4](https://raw.githubusercontent.com/fisabiliyusri/XRAY-MANTAP/main/img/settingambar4.jpg)
+  # ![settinggambar4](https://raw.githubusercontent.com/fisabiliyusri/XRAY-MANTAP/main/img/settingambar4.jpg)
    - Buka tab Network di cloudflare kamu aktifkan WebSocket nya ✅
-   ![settinggambar5](https://raw.githubusercontent.com/fisabiliyusri/XRAY-MANTAP/main/img/settingambar5.jpg)
-   ![settinggambar6](https://raw.githubusercontent.com/fisabiliyusri/XRAY-MANTAP/main/img/settingambar6.jpg)
+   #![settinggambar5](https://raw.githubusercontent.com/fisabiliyusri/XRAY-MANTAP/main/img/settingambar5.jpg)
+  # ![settinggambar6](https://raw.githubusercontent.com/fisabiliyusri/XRAY-MANTAP/main/img/settingambar6.jpg)
 3. Setting Di Cloudflare Selesai
 # Cara Install Script Nya
 - Login ke VPS kamu ( wajib pake user ***root***)
