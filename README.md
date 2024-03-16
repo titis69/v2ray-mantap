@@ -102,14 +102,14 @@ apt-get update && apt-get upgrade -y && update-grub && sleep 2 && reboot
 - contoh nama domain punya aku,silahkan ganti dengan punya kamu
 ```
 cat >/root/domain <<EOF
-mantapxsl.my.id
+domain.id
 EOF
 ```
 - ganti mantapxsl.my.id menjadi nama domain punya kamu
 ```
 mkdir -p /etc/xray
 cat >/etc/xray/domain <<EOF
-mantapxsl.my.id
+domain.id
 EOF
 ```
 
@@ -158,7 +158,7 @@ https://youtu.be/Pwfvwy5Ghcw
 nano /usr/bin/auto-pointing
 ```
 - contoh punya aku
-- tinggal ubah saja yg mantapxsl.my.id menjadi domain punya kamu
+# tinggal ubah saja yg mantapxsl.my.id menjadi domain punya kamu
 ```
 DOMAIN=mantapxsl.my.id
 SUB_DOMAIN=onichan-${sub}.mantapxsl.my.id
